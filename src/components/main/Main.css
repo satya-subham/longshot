@@ -1,0 +1,59 @@
+.main{
+    width: 100%;
+    height: auto;
+}
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.log-port-div{
+    width: 350px;
+    height: auto;
+    padding: 20px 10px;
+    border: 1px solid orange;
+    border-radius: 10px;
+}
+.log-div{
+    text-align: left;
+    width: 300px;
+    height: 50px;
+    border-bottom: 1px solid darkgray;
+}
+.port-div{
+    width: 300px;
+    height: 150px;
+    text-align: left;
+    padding: 10px 0px;
+}
+.intent{
+    width: 300px;
+    height: 70px;
+    padding: 10px;
+    border: 1px solid orange;
+    border-radius: 10px;
+    margin: 12px;
+}
+.cpc-com{
+    width: 300px;
+    height: 70px;
+    margin: 12px;
+    border: 1px solid orange;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.buttons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.drag-and-drop{
+    background-color: rgb(70, 64, 64);
+    color: white;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
